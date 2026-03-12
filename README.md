@@ -4,7 +4,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TadeasDitte.TadeasDitte&left_text=People%20traumatized%20by%20bad%20practice"  />
 </div>
-<div align="center">
+<div align="right">
   <a href="https://www.buymeacoffee.com/TadeasDitte" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 <div align="center">
